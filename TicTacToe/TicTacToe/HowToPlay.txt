@@ -1,0 +1,3 @@
+- Each mouse click changes the turn
+
+- After a game has ended, click anywhere to start a new one

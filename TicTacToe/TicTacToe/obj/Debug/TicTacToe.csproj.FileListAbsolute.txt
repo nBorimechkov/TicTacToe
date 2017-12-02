@@ -12,3 +12,18 @@ c:\users\basedd\documents\visual studio 2015\Projects\TicTacToe\TicTacToe\obj\De
 c:\users\basedd\documents\visual studio 2015\Projects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.Cache
 c:\users\basedd\documents\visual studio 2015\Projects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
 c:\users\basedd\documents\visual studio 2015\Projects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
+C:\Users\Nikolay\Desktop\TicTacToe\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.config
+C:\Users\Nikolay\Desktop\TicTacToe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
+C:\Users\Nikolay\Desktop\TicTacToe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
+C:\Users\Nikolay\Desktop\TicTacToe\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+C:\Users\Nikolay\Desktop\TicTacToe\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Users\Nikolay\Desktop\TicTacToe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csprojResolveAssemblyReference.cache
+C:\Users\Nikolay\Desktop\TicTacToe\TicTacToe\TicTacToe\obj\Debug\MainWindow.g.cs
+C:\Users\Nikolay\Desktop\TicTacToe\TicTacToe\TicTacToe\obj\Debug\App.g.cs
+C:\Users\Nikolay\Desktop\TicTacToe\TicTacToe\TicTacToe\obj\Debug\TicTacToe_MarkupCompile.cache
+C:\Users\Nikolay\Desktop\TicTacToe\TicTacToe\TicTacToe\obj\Debug\TicTacToe_MarkupCompile.lref
+C:\Users\Nikolay\Desktop\TicTacToe\TicTacToe\TicTacToe\obj\Debug\MainWindow.baml
+C:\Users\Nikolay\Desktop\TicTacToe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.g.resources
+C:\Users\Nikolay\Desktop\TicTacToe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+C:\Users\Nikolay\Desktop\TicTacToe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.Cache
+C:\Users\Nikolay\Desktop\TicTacToe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
